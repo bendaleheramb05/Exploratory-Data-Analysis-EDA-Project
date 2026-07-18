@@ -136,7 +136,7 @@ Some important observations obtained during the analysis include:
 ## Age Distribution
 
 ```markdown
-![Age Distribution](images/age_distribution.png)
+![Age Distribution](Age Distribution.png)
 ```
 
 ## Gender Distribution
