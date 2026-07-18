@@ -47,21 +47,18 @@ This project demonstrates essential **Data Analysis**, **Data Cleaning**, and **
 
 Titanic-EDA/
 │
-├── images/
-│   ├── age_boxplot.png
-│   ├── age_distribution.png
-│   ├── age_vs_fare.png
-│   ├── correlation_heatmap.png
-│   ├── male_vs_female.png
-│   ├── pairplot.png
-│   ├── passenger_class.png
-│   ├── survival_count.png
-│   └── survival_percentage.png
-│
-├── titanic.csv
-├── eda.py
 ├── README.md
-└── requirements.txt
+├── eda.py
+├── titanic.csv
+├── age_boxplot.png
+├── age_distribution.png
+├── age_vs_fare.png
+├── correlation_heatmap.png
+├── male_vs_female.png
+├── pairplot.png
+├── passenger_class.png
+├── survival_count.png
+└── survival_percentage.png
 
 ---
 
@@ -127,37 +124,46 @@ Some important observations obtained during the analysis include:
 
 ---
 
-# 📷 Sample Output
-
+# 📷 Sample Output 
+`` 
 ## Age Distribution
 
-```markdown
 ![Age Distribution](age_distribution.png)
-```
 
-## Gender Distribution
+## Age Boxplot
 
-```markdown
-![Gender Distribution](images/gender_distribution.png)
-```
+![Age Boxplot](age_boxplot.png)
 
-## Survival Count
+## Age vs Fare
 
-```markdown
-![Survival Count](images/survival_count.png)
-```
-
-## Passenger Class
-
-```markdown
-![Passenger Class](images/passenger_class.png)
-```
+![Age vs Fare](age_vs_fare.png)
 
 ## Correlation Heatmap
 
-```markdown
-![Correlation Heatmap](images/correlation_heatmap.png)
-```
+![Correlation Heatmap](correlation_heatmap.png)
+
+## Male vs Female
+
+![Male vs Female](male_vs_female.png)
+
+## Pairplot
+
+![Pairplot](pairplot.png)
+
+## Passenger Class
+
+![Passenger Class](passenger_class.png)
+
+## Survival Count
+
+![Survival Count](survival_count.png)
+
+## Survival Percentage
+
+![Survival Percentage](survival_percentage.png)
+
+
+
 
 ---
 
