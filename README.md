@@ -45,27 +45,23 @@ This project demonstrates essential **Data Analysis**, **Data Cleaning**, and **
 
 # 📂 Project Structure
 
-```
 Titanic-EDA/
 │
-├── data/
-│   └── titanic.csv
-│
 ├── images/
-│   ├── age_distribution.png
-│   ├── gender_distribution.png
-│   ├── survival_count.png
-│   ├── passenger_class.png
 │   ├── age_boxplot.png
+│   ├── age_distribution.png
 │   ├── age_vs_fare.png
-│   ├── survival_percentage.png
 │   ├── correlation_heatmap.png
-│   └── pairplot.png
+│   ├── male_vs_female.png
+│   ├── pairplot.png
+│   ├── passenger_class.png
+│   ├── survival_count.png
+│   └── survival_percentage.png
 │
+├── titanic.csv
 ├── eda.py
-├── requirements.txt
-└── README.md
-```
+├── README.md
+└── requirements.txt
 
 ---
 
