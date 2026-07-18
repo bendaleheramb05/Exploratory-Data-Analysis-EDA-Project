@@ -142,9 +142,9 @@ Some important observations obtained during the analysis include:
 
 ![Correlation Heatmap](correlation_heatmap.png)
 
-## Male vs Female
+## Male vs Female  
 
-![Male vs Female](male_ vs_female.png)
+![Male vs Female](./male_vs_female.png)
 
 ## Pairplot
 
