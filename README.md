@@ -144,7 +144,7 @@ Some important observations obtained during the analysis include:
 
 ## Male vs Female
 
-![Male vs Female](male_vs_female.png)
+![Male vs Female](male_ vs_female.png)
 
 ## Pairplot
 
