@@ -172,7 +172,7 @@ Some important observations obtained during the analysis include:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Titanic-EDA.git
+git clone https://github.com/bendaleheramb05/Titanic-EDA.git
 ```
 
 ### 2️⃣ Navigate to the Project Folder
